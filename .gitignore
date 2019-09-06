@@ -5,3 +5,4 @@ __pycache__/
 # Other
 *.pyc
 .ipynb_checkpoints
+nim_stim/
